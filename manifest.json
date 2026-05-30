@@ -1,0 +1,10 @@
+{
+  "name": "MOXL_CN_MOD_RES",
+  "description": "一个汉化资源，仅用于其他模组汉化。",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "Aueser-LC_Chinese_Project-3.0.0"
+  ],
+  "website_url": ""
+}
