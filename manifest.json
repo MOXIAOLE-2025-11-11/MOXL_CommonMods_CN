@@ -1,6 +1,6 @@
 {
   "name": "MOXL_CommonMods_CN",
-  "description": "一个汉化资源，仅汉化MOXL常用的模组。",
+  "description": "一个汉化资源，仅汉化MOXL可能会用的模组。",
   "version_number": "0.0.1a",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
