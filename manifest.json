@@ -4,7 +4,7 @@
   "version_number": "0.0.1a",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
-    "Aueser-LC_Chinese_Project-3.0.0"
+    "Aueser-LC_Chinese_Project-3.1.3"
   ],
   "website_url": "https://github.com/MOXIAOLE-2025-11-11/MOXL_CommonMods_CN"
 }
