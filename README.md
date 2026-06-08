@@ -4,7 +4,8 @@
 ## 原生及前置模组为[LC-Chinese-Project](https://github.com/Auuueser/LC-Chinese-Project)
 
 # 注意
-文本仅使用该目录 BepInEx\config\V81TestChn\custom-localization
+## 文本仅使用该目录 BepInEx\config\V81TestChn\custom-localization
+## 并且每更新一次本汉化资源，你都应该将目录BepInEx\config\V81TestChn\custom-localization的文件删除，否则汉化无法更新，因为它不会自己覆盖。
 
 版本号为纯净数字作为正式版发布，带有字母版作为暂不发布的公开测试版本。
 
